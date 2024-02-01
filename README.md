@@ -7,7 +7,7 @@ http://zetcode.com/javagames/spaceinvaders/
 
 This is the first version of the game.
 
-We have improved this game
+We've improved this game
 
 ## Level 1
 <hr>
